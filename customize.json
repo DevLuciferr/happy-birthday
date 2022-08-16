@@ -3,7 +3,7 @@
   "name": "Prince 🤴",
   "greetingText": "I have a small Surprise for you",
   "wishText": "Enjoy Your Day 🥂 ;)",
-  "imagePath": "IMG_20220816_122024.jpg",
+  "imagePath": "./IMG_20220816_122024.jpg",
   "text1": "Happy birthday Bhai 🎂",
   "textInChatBox": "May God Bless you with Happiness and ... (💎) 🤭",
   "sendButtonLabel": "Send",
